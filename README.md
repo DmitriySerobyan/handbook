@@ -9,6 +9,7 @@
 - [Доклад: S3 в OK 2022](https://www.youtube.com/watch?v=N3mbocqCtsk)
 - [Доклад: soft skills на собесах 2022](https://www.youtube.com/watch?v=S-jQIYp38tc)
 - [Доклад: бинарныое хранилище в ОК 2017](https://www.youtube.com/watch?v=Hs2txKgnpAk)
+- [Доклад: платформа 4К-стриминга на миллион онлайнов в ОК 2018](https://www.youtube.com/watch?v=pqz_qld6jVA)
 - [Доклад: подходы к реализации шардинга 2018](https://www.youtube.com/watch?v=DfaTNXCsYRg)
 - [Доклад: теория параллельного программирования 2012](https://www.youtube.com/watch?v=D8DXW7wlGDE)
 - [Лекции: concurrency 2022](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
@@ -58,6 +59,7 @@
 - load prediction
 - manual memory and resource management
 - more efficient transport and data format
+- multicast
 - multiplexing
 - p2p
 - parallelism, SIMD, sharding
