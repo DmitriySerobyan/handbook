@@ -13,6 +13,7 @@
 - [Доклад: платформа 4К-стриминга на миллион онлайнов в ОК 2018](https://www.youtube.com/watch?v=pqz_qld6jVA)
 - [Доклад: подходы к реализации шардинга 2018](https://www.youtube.com/watch?v=DfaTNXCsYRg)
 - [Доклад: теория параллельного программирования 2012](https://www.youtube.com/watch?v=D8DXW7wlGDE)
+- [Лекции: теория по базам данных 2024](https://www.youtube.com/playlist?list=PLzWf2xLEjn8ZBtdz9sLbBBnNo1FtvQe30)
 - [Лекции: concurrency 2022](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
 - [Лекции: git 2021](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
 - [Лекции: hardware 2023](https://www.youtube.com/watch?v=czl3NwGNuHg&list=PLcXpxQEvs8cPCuSy7hliyFXI1l829u7RZ)
