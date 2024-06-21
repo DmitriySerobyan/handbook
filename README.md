@@ -5,6 +5,7 @@
 - [JVM anatomy quarks](https://shipilev.net/jvm/anatomy-quarks/)
 - [Визуальный paxos](https://isaacwr.github.io/thesecretlivesofdata/paxos/)
 - [Визуальный raft](http://thesecretlivesofdata.com/raft/)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Доклад: JMM 2014](https://www.youtube.com/watch?v=iB2N8aqwtxc)
 - [Доклад: S3 в OK 2022](https://www.youtube.com/watch?v=N3mbocqCtsk)
 - [Доклад: soft skills на собесах 2022](https://www.youtube.com/watch?v=S-jQIYp38tc)
