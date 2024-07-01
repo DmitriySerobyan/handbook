@@ -3,28 +3,14 @@
 ## Список полезных ресурсов для изучения разработчику
 - [Google SRE book](https://sre.google/sre-book/foreword/)
 - [JVM anatomy quarks](https://shipilev.net/jvm/anatomy-quarks/)
-- [Визуальный paxos](https://isaacwr.github.io/thesecretlivesofdata/paxos/)
-- [Визуальный raft](http://thesecretlivesofdata.com/raft/)
+- [Java Memory Model 2014](https://www.youtube.com/watch?v=iB2N8aqwtxc)
+- [Как и зачем решать зазачи на leetcode](https://www.youtube.com/watch?v=ugGT4T5HcsI)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [Доклад: JMM 2014](https://www.youtube.com/watch?v=iB2N8aqwtxc)
-- [Доклад: S3 в OK 2022](https://www.youtube.com/watch?v=N3mbocqCtsk)
-- [Доклад: soft skills на собесах 2022](https://www.youtube.com/watch?v=S-jQIYp38tc)
-- [Доклад: бинарныое хранилище в ОК 2017](https://www.youtube.com/watch?v=Hs2txKgnpAk)
-- [Доклад: платформа 4К-стриминга на миллион онлайнов в ОК 2018](https://www.youtube.com/watch?v=pqz_qld6jVA)
-- [Доклад: подходы к реализации шардинга 2018](https://www.youtube.com/watch?v=DfaTNXCsYRg)
-- [Доклад: теория параллельного программирования 2012](https://www.youtube.com/watch?v=D8DXW7wlGDE)
-- [Лекции: теория по базам данных 2024](https://www.youtube.com/playlist?list=PLzWf2xLEjn8ZBtdz9sLbBBnNo1FtvQe30)
-- [Лекции: concurrency 2022](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
-- [Лекции: git 2021](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb)
-- [Лекции: hardware 2023](https://www.youtube.com/watch?v=czl3NwGNuHg&list=PLcXpxQEvs8cPCuSy7hliyFXI1l829u7RZ)
-- [Лекции: java 2022](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z)
-- [Лекции: kubernetes 2021](https://www.youtube.com/playlist?list=PL8D2P0ruohOBSA_CDqJLflJ8FLJNe26K-)
-- [Лекции: распределенные системы 2021](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC)
-- [Лекции: системное программирование 2019](https://www.youtube.com/playlist?list=PLrCZzMib1e9pOdLmE2qtMgL3QMEIrxyu7)
-- [Лекции: управление IT-проектами и продуктом 2019](https://www.youtube.com/playlist?list=PLrCZzMib1e9oUFO9saNfPAqBjpQW8v9I-)
-- [Список: GOF паттерны](https://refactoring.guru/ru/design-patterns)
-- [Список: АиСД](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/)
-- [Статья: обзор ML](https://vas3k.ru/blog/machine_learning/)
+- [Теория по базам данных 2024](https://www.youtube.com/playlist?list=PLzWf2xLEjn8ZBtdz9sLbBBnNo1FtvQe30)
+- [Подходы к реализации шардинга 2018](https://www.youtube.com/watch?v=DfaTNXCsYRg)
+- [Распределенные системы 2021](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC)
+- [Теория параллельного программирования 2012](https://www.youtube.com/watch?v=D8DXW7wlGDE)
+- [Concurrency 2022](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
 - Clean Code. Robert Martin
 - Computer Networks. Andrew Tanenbaum
 - Database Internals. Alex Petrov
@@ -35,7 +21,6 @@
 - Microservices Patterns. Chris Richardson
 - Modern Operating Systems. Andrew Tanenbaum
 - Structured Computer Organization. Andrew Tanenbaum, Todd Austin
-- System Design Interview. Alex Xu
 - The Staff Engineer's Path. Tanya Reilly
 
 ## Performance
@@ -85,25 +70,6 @@
 - using right algorithm and data structure
 - warming up (compilation using execution statistics)
 - zero cost abstraction
-
-## Вариантность
-
-PECS (Producer Extends Consumer Super)
-
-|                    |                                               | Java    | Kotlin | Scala |
-|--------------------|-----------------------------------------------|---------|--------|-------|
-| Ковариантность     | сам тип + наследники                          | extends | out    | +     |
-| Контравариантность | сам тип + родители                            | super   | in     | -     |
-| Инвариантность     | сам тип (Ковариантность + Контравариантность) |         |        |       |
-
-## Concurrency
-- with shared state
-    + locking
-    + wait-free algorithm
-    + hardware transactional memory
-- without shared state
-    + actor model
-    + functional programming
 
 ## Архитектура
 
