@@ -49,8 +49,9 @@
 - multicast
 - multiplexing
 - p2p
-- parallelism, SIMD, sharding
+- parallelism
 - pipelining
+- precalculation
 - prefer sequential access to random
 - prefetch
 - prioritization
@@ -59,6 +60,9 @@
 - replication and load balancing
 - reserve
 - reuse (buffers, object pool, GC free, etc.)
+- sampling
+- sharding
+- SIMD
 - simplifying data (quantization, PCA, etc.)
 - simplifying requirements (weaker consistency model, not fair scheduling, approximate algorithm, etc.)
 - speculative execution
@@ -68,7 +72,7 @@
 - trade-off between read/write
 - upgrade hardware
 - using right algorithm and data structure
-- warming up (compilation using execution statistics)
+- warming up or compilation using execution statistics
 - zero cost abstraction
 
 ## Архитектура
