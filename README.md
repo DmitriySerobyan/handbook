@@ -13,6 +13,7 @@
 - [Concurrency 2022](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
 - [Retry](https://habr.com/ru/companies/yandex/articles/762678/)
 - [Idempotency](https://habr.com/ru/companies/yandex/articles/442762/)
+- [Teamlead Roadmap](https://tlroadmap.io/guide.html)
 - Clean Code. Robert Martin
 - Computer Networks. Andrew Tanenbaum
 - Database Internals. Alex Petrov
