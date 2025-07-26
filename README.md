@@ -11,6 +11,8 @@
 - [Распределенные системы 2021](https://www.youtube.com/playlist?list=PL4_hYwCyhAvaYKF6HkyCximCvlExxxnrC)
 - [Теория параллельного программирования 2012](https://www.youtube.com/watch?v=D8DXW7wlGDE)
 - [Concurrency 2022](https://www.youtube.com/playlist?list=PL4_hYwCyhAva37lNnoMuBcKRELso5nvBm)
+- [Retry](https://habr.com/ru/companies/yandex/articles/762678/)
+- [Idempotency](https://habr.com/ru/companies/yandex/articles/442762/)
 - Clean Code. Robert Martin
 - Computer Networks. Andrew Tanenbaum
 - Database Internals. Alex Petrov
