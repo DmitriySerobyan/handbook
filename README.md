@@ -63,6 +63,7 @@
 - replication and load balancing
 - reserve
 - reuse (buffers, object pool, GC free, etc.)
+- reorder
 - sampling
 - sharding
 - SIMD
