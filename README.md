@@ -51,6 +51,7 @@
 - more efficient transport and data format
 - multicast
 - multiplexing
+- multitarget code
 - p2p
 - parallelism
 - pipelining
@@ -76,7 +77,7 @@
 - trade-off between read/write
 - upgrade hardware
 - using right algorithm and data structure
-- warming up or compilation using execution statistics
+- warming up (JIT, cache) or compilation using execution statistics
 - zero cost abstraction
 
 ## Архитектура
