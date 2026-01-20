@@ -71,6 +71,7 @@
 - simplifying data (quantization, PCA, etc.)
 - simplifying requirements (weaker consistency model, not fair scheduling, approximate algorithm, etc.)
 - speculative execution
+- separate data and metadata (don,t transfer large amounts of data)
 - temporal and spatial locality
 - trade-off between CPU/disk/net/mem
 - trade-off between latency/throughput (batching, empty queues, etc.)
