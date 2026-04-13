@@ -36,6 +36,8 @@
 - logging
 
 ### Fix
+- back pressure
+- branchless
 - buffering and merge/deduplication
 - caching and memoization
 - cleanup
