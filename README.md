@@ -61,12 +61,15 @@
 - prefer sequential access to random
 - prefetch
 - prioritization
+- producer-consumer pattern
 - rate limiting; circuit breaker; retry circuit breaker; retry budget; exponential backoff + jitter; deadline propagation
 - reducing critical sections (Amdahl's law)
-- replication and load balancing
+- reducing concurrency
+- replication
 - reserve
 - reuse (buffers, object pool, GC free, etc.)
 - reorder
+- load balancing
 - sampling
 - sharding
 - SIMD
