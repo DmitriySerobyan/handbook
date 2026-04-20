@@ -85,6 +85,8 @@
 - using right algorithm and data structure
 - warming up (JIT, cache) or compilation using execution statistics
 - zero cost abstraction
+- CPU pinning
+- shared-nothing
 
 ## Архитектура
 
