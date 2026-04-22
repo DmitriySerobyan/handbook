@@ -1,4 +1,4 @@
-# Handbook
+by# Handbook
 
 ## Список полезных ресурсов для изучения разработчику
 - [Google SRE book](https://sre.google/sre-book/foreword/)
@@ -41,6 +41,7 @@
 - buffering and merge/deduplication
 - caching and memoization
 - cleanup
+- compression
 - concurrency
 - copy reduction
 - data compression
