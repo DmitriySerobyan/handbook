@@ -43,6 +43,7 @@ by# Handbook
 - cleanup
 - compression
 - concurrency
+- consistency trade-off
 - copy reduction
 - data compression
 - hot and cold data storage (mem/SSD/HDD/streamer, etc.)
@@ -65,7 +66,6 @@ by# Handbook
 - producer-consumer pattern
 - rate limiting; circuit breaker; retry circuit breaker; retry budget; exponential backoff + jitter; deadline propagation
 - reducing critical sections (Amdahl's law)
-- reducing concurrency
 - replication
 - reserve
 - reuse (buffers, object pool, GC free, etc.)
