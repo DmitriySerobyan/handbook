@@ -14,6 +14,7 @@ by# Handbook
 - [Retry](https://habr.com/ru/companies/yandex/articles/762678/)
 - [Idempotency](https://habr.com/ru/companies/yandex/articles/442762/)
 - [Teamlead Roadmap](https://tlroadmap.io/guide.html)
+- [Laws of software engineering](https://lawsofsoftwareengineering.com/)
 - Clean Code. Robert Martin
 - Computer Networks. Andrew Tanenbaum
 - Database Internals. Alex Petrov
@@ -34,6 +35,7 @@ by# Handbook
 - tracing
 - profiling
 - logging
+- modeling
 
 ### Fix
 - back pressure
