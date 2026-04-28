@@ -1,4 +1,4 @@
-by# Handbook
+# Handbook
 
 ## Список полезных ресурсов для изучения разработчику
 - [Google SRE book](https://sre.google/sre-book/foreword/)
