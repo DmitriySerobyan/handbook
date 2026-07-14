@@ -48,6 +48,7 @@
 - consistency trade-off
 - copy reduction
 - data compression
+- delta compression
 - hot and cold data storage (mem/SSD/HDD/streamer, etc.)
 - improvement of higher quantiles at the cost of degradation of lower quantiles
 - independent scaling
